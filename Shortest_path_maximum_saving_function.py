@@ -305,5 +305,3 @@ input_network = '''-,14,10,19,-,-,-
 '''
 max_saving = maximum_saving(input_network)
 print(max_saving)
-    
-
